@@ -1,0 +1,77 @@
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Виктория\Desktop\--codespace-viktori007-humble-lamp-56vg54w76xp2v4wx\laba2 mdk02\MathQuiz\MathQuiz\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Виктория\Desktop\laba2 mdk02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba2 Egorova\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

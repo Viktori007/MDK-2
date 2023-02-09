@@ -1,0 +1,44 @@
+C:\Users\student\source\repos\map\map\bin\Debug\map.exe.config
+C:\Users\student\source\repos\map\map\bin\Debug\map.exe
+C:\Users\student\source\repos\map\map\bin\Debug\map.pdb
+C:\Users\student\source\repos\map\map\obj\Debug\map.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\map\map\obj\Debug\map.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\map\map\obj\Debug\map.map.resources
+C:\Users\student\source\repos\map\map\obj\Debug\map.Properties.Resources.resources
+C:\Users\student\source\repos\map\map\obj\Debug\map.csproj.GenerateResource.cache
+C:\Users\student\source\repos\map\map\obj\Debug\map.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\map\map\obj\Debug\map.exe
+C:\Users\student\source\repos\map\map\obj\Debug\map.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\bin\Debug\map.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\bin\Debug\map.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\bin\Debug\map.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.map.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MDK-main\map\map\obj\Debug\map.pdb
+C:\Users\Виктория\Desktop\xren-main\map\map\bin\Debug\map.exe.config
+C:\Users\Виктория\Desktop\xren-main\map\map\bin\Debug\map.exe
+C:\Users\Виктория\Desktop\xren-main\map\map\bin\Debug\map.pdb
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.map.resources
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.Properties.Resources.resources
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.exe
+C:\Users\Виктория\Desktop\xren-main\map\map\obj\Debug\map.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\bin\Debug\map.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\bin\Debug\map.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\bin\Debug\map.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.map.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba4 Egorova\map\obj\Debug\map.pdb
