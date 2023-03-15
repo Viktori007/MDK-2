@@ -1,0 +1,44 @@
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Виктория\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\ВИКТОРИЯ\OneDrive\Рабочий стол\МДК 2.0\MDK-main\laba3 Egorova\MatchingGame\obj\Debug\MatchingGame.pdb

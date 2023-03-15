@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\bin\Debug\picture Viewer Egorova.exe.config
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\bin\Debug\picture Viewer Egorova.exe
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\bin\Debug\picture Viewer Egorova.pdb
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture_Viewer_Egorova.Form1.resources
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture_Viewer_Egorova.Properties.Resources.resources
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.csproj.GenerateResource.cache
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.exe
+C:\Users\student\Desktop\egorova 21is\picture Viewer Egorova\picture Viewer Egorova\obj\Debug\picture Viewer Egorova.pdb
