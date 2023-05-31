@@ -1,0 +1,13 @@
+D:\learning\МДК 2.0\1 work\AppText\AppText\bin\Debug\AppText.exe.config
+D:\learning\МДК 2.0\1 work\AppText\AppText\bin\Debug\AppText.exe
+D:\learning\МДК 2.0\1 work\AppText\AppText\bin\Debug\AppText.pdb
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.csproj.AssemblyReference.cache
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.csproj.SuggestedBindingRedirects.cache
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.Form1.resources
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.Properties.Resources.resources
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.csproj.GenerateResource.cache
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.csproj.CoreCompileInputs.cache
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.exe
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.pdb
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.AboutBox1.resources
+D:\learning\МДК 2.0\1 work\AppText\AppText\obj\Debug\AppText.AboutBox2.resources
